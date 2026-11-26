@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         うずら BOT — Mellojoy・Shop対応
 // @namespace    uzura.mellojoy.shop
-// @version      2.1.95.11057
+// @version      2.1.95.11058
 // @updateURL    https://raw.githubusercontent.com/stussy2313xxx-web/-BOT/main/uzura-mellojoy-shop.meta.js
 // @downloadURL  https://raw.githubusercontent.com/stussy2313xxx-web/-BOT/main/uzura-mellojoy-shop.user.js
 // @description  Mellojoy・Shopify・Supreme・HUMAN MADE・Buffer・Palace・and ST・VANS Japan・BASE・FEILERの購入補助。購入成功時のDiscord通知に対応。
